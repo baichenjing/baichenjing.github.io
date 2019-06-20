@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff1b22f9-76d1-42fb-a101-628cf555b866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python multithread.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ff1b22f9-76d1-42fb-a101-628cf555b866" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,19 +25,19 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog1.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/machine learning basics.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+            <state relative-caret-position="76">
+              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python multithread.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
+            <state relative-caret-position="487">
               <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
             </state>
           </provider>
@@ -69,8 +66,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="318" />
-    <option name="y" value="1" />
+    <option name="x" value="613" />
     <option name="width" value="1622" />
     <option name="height" value="1007" />
   </component>
@@ -121,16 +117,24 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="687" y="11" width="1081" height="671" extended-state="0" />
-    <editor active="true" />
+    <frame x="409" y="0" width="1081" height="671" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12368169" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17641419" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.39664805" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -138,7 +142,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -156,17 +160,17 @@
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog1.md">
+    <entry file="file://$PROJECT_DIR$/python multithread.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="66" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+        <state relative-caret-position="487">
+          <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python multithread.md">
+    <entry file="file://$PROJECT_DIR$/machine learning basics.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+        <state relative-caret-position="76">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
