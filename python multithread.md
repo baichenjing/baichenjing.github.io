@@ -1,10 +1,33 @@
-###
+######multithreading
+````
 
-###multiprocessing 比multithreading更节省时间
+import threading
+import time
+from queue import Queue
+def thread_job():
+    print('this is an added thread,number is %s'%threading.current_thread())
+    for i in range(10):
+        time.sleep(0.1)
+    print('t1 finish \n'')   
+def main():
+    added_thread=threading.Thread(target=thread_job)
+    added_thread.start()
+    print(threading.active_count())
+    print(threading.enumerate())
+    print(threading.current_thread())
+
+if __name__=='main__':
+    main() 
+def thread_job():
+    print('t1 start'')
+    for i in range(10):
+ ```` 
+- join功能可以等待线程完成后再接着完成主进程
+        
+- multiprocessing 比multithreading更节省时间
 
 
-###
-``
+````
 import multiprocessing as mp
 import threading as td
 
@@ -54,11 +77,13 @@ if __name__=='__main__':
     res1=q.get()
     res2=q.get()
     print(res1+res2)
-``
+````
 
-###进程池  import multiprocessing as mp
-``
- def jon(x):
+- 进程池  
+````
+import multiprocessing as mp
+
+ def job(x):
     return x*x
  
  def multicore():
@@ -73,17 +98,17 @@ if __name__=='__main__':
  if __name__=='__main__':
     multicore('d',1)
     
- ``
- #####共享内存 shared memory
- ``
+ ````
+- 共享内存 shared memory
+ ````
  import multiprocessing as mp
  
  value=mp.Value('d,1) //不可以用全局变量
  array=mp.Array('i,[1,3,4])
  
- ``
- #####lock 锁
- 
+ ````
+- lock 锁
+ ````
  def job(v,num,l):
     l.acquire()
     for _ in range(10):
@@ -100,3 +125,4 @@ if __name__=='__main__':
      p2.start()
      p1.join()
      p2.join()
+  ````

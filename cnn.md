@@ -1,0 +1,3 @@
+- patch(卷积核) stride(步长) 卷积层
+- pooling层  降维，主要是为了得到主要信息 进行maxpooling average pooling
+- 全连接层 
