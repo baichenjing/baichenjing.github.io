@@ -1,7 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff1b22f9-76d1-42fb-a101-628cf555b866" name="Default Changelist" comment="" />
+    <list default="true" id="ff1b22f9-76d1-42fb-a101-628cf555b866" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/archive.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/admin/css/admin-widget.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/admin/css/chosen-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/admin/css/chosen-sprite@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/admin/css/chosen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/admin/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/admin/js/admin-widget.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/admin/js/chosen.jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/admin/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/dist/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/dist/fonts/fontAwesome/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/dist/fonts/fontAwesome/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/dist/fonts/fontAwesome/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/dist/fonts/fontAwesome/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/dist/fonts/fontAwesome/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/dist/fonts/fontAwesome/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/dist/js/bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/js/custom/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/js/plugins/Stellarnav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/js/plugins/masonary.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/js/plugins/matchheight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/js/plugins/owlcarousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/js/plugins/retina.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/js/plugins/selectric.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/js/plugins/sticky-header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/js/plugins/theia-sticky-sidebar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/custom/_menu.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/custom/_styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/custom/_wp_styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/fonticons/_fonticon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/fonticons/fontlibrary/_font_awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/framework/_framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/mixins/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/normalize/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/plugins/_animate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/plugins/_owlcarousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/plugins/_retina.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/plugins/_selectric.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/responsive/_responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/typography/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/variables/_variables_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/variables/_variables_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/assets/src/scss/variables/colors/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/comments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/customizer/active-callback.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/customizer/customize-controls.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/customizer/customizer-options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/customizer/customizer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/customizer/option-choices.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/customizer/sanitize-callback.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/functions/breadcrumbs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/functions/custom-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/functions/extras.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/functions/hooks.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/functions/template-functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/functions/template-tags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/jetpack.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/widgets/author-widget.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/widgets/post-widget.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/inc/widgets/widget-init.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/js/customizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/js/skip-link-focus-fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/languages/viable-blog.pot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/sidebar.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/template-parts/archive/layout-grid.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/template-parts/archive/layout-masonry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/template-parts/banner/banner-one.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/template-parts/banner/banner-two.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/template-parts/content-none.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/template-parts/content-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/template-parts/content-related.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/template-parts/content-single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/template-parts/header/header-one.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/template-parts/header/header-two.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/template-parts/layout/layout-grid.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/template-parts/layout/layout-gridfull.php" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +113,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/学习总结/数据预处理-sklearn preprocessing理解.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="267">
@@ -32,64 +123,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/andrew课程/牛顿方法.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
+        <entry file="file://$PROJECT_DIR$/1/README.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2736" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/andrew课程/朴素贝叶斯.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
+        <entry file="file://$PROJECT_DIR$/1/search.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5415" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/andrew课程/最优间隔分类器.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
+        <entry file="file://$PROJECT_DIR$/1/categories/算法大赛/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-11628" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16701" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="798">
-                <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/1/CNAME">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/andrew课程/顺序最优化方法.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/andrew课程/经验风险最小化方法.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
+        <entry file="file://$PROJECT_DIR$/1/atom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1254" />
           </provider>
         </entry>
       </file>
@@ -127,7 +196,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/1" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -161,6 +230,7 @@
     <option name="width" value="1922" />
     <option name="height" value="974" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -227,7 +297,7 @@
   <component name="ToolWindowManager">
     <frame x="231" y="1" width="1281" height="649" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15768303" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2164119" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -429,6 +499,34 @@
         <state relative-caret-position="267">
           <caret line="111" column="77" selection-start-line="111" selection-start-column="77" selection-end-line="111" selection-end-column="77" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1/README.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2736" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1/CNAME">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1/atom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1254" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1/search.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5415" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1/categories/算法大赛/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11628" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16701" />
       </provider>
     </entry>
   </component>
