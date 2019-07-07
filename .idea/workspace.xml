@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff1b22f9-76d1-42fb-a101-628cf555b866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/andrew课程/最优间隔分类器.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/andrew课程/朴素贝叶斯.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/andrew课程/牛顿方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/andrew课程/特征选择.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/andrew课程/生成学习算法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/andrew课程/监督学习应用与梯度下降.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/andrew课程/经验风险最小化方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/andrew课程/贝叶斯统计正则化.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/andrew课程/顺序最优化方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recommendation system.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习总结/onehot编码和labelEncoder编码.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学习总结/数据预处理-sklearn preprocessing理解.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dialogue machine.md" beforeDir="false" afterPath="$PROJECT_DIR$/xmind/dialogue machine.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine learning basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/学习总结/machine learning basics.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,26 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/学习总结/machine learning basics.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/学习总结/onehot编码和labelEncoder编码.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="974">
-                <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+              <first_editor relative-caret-position="1938">
+                <caret line="102" column="20" lean-forward="true" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xmind/dialogue machine.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-380">
-                <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              </first_editor>
-              <second_editor />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/学习总结/数据预处理-sklearn preprocessing理解.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -115,7 +102,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="38">
-                <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+                <caret line="2" selection-start-line="2" selection-end-line="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -127,7 +114,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="209">
-                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+                <caret line="11" selection-start-line="11" selection-end-line="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -166,13 +153,17 @@
         <option value="$PROJECT_DIR$/andrew课程/贝叶斯统计正则化.md" />
         <option value="$PROJECT_DIR$/andrew课程/特征选择.md" />
         <option value="$PROJECT_DIR$/学习总结/machine learning basics.md" />
+        <option value="$PROJECT_DIR$/学习总结/onehot编码和labelEncoder编码.md" />
+        <option value="$PROJECT_DIR$/学习总结/数据预处理-sklearn preprocessing理解.py" />
+        <option value="$PROJECT_DIR$/学习总结/数据预处理-sklearn preprocessing理解.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="145" />
-    <option name="width" value="1791" />
-    <option name="height" value="978" />
+    <option name="x" value="954" />
+    <option name="y" value="1" />
+    <option name="width" value="1313" />
+    <option name="height" value="974" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -185,6 +176,11 @@
             <path>
               <item name="baichenjing.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="baichenjing.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baichenjing.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baichenjing.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="学习总结" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -237,9 +233,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="0" width="1194" height="652" extended-state="0" />
+    <frame x="569" y="9" width="875" height="649" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17474048" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.035842296" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -250,7 +247,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.4073359" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24660194" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32960895" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -331,6 +328,31 @@
     <entry file="file://$PROJECT_DIR$/andrew课程/监督学习应用与梯度下降.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/学习总结/machine learning basics.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="380">
+            <caret line="101" column="3" selection-start-line="101" selection-start-column="3" selection-end-line="101" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xmind/dialogue machine.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/andrew课程/牛顿方法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -355,6 +377,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="798">
+            <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/andrew课程/顺序最优化方法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -371,58 +403,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/andrew课程/贝叶斯统计正则化.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="209">
-            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/andrew课程/特征选择.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="38">
-            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xmind/dialogue machine.md">
+    <entry file="file://$PROJECT_DIR$/andrew课程/贝叶斯统计正则化.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-380">
-            <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <first_editor relative-caret-position="209">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python.md">
+    <entry file="file://$PROJECT_DIR$/学习总结/onehot编码和labelEncoder编码.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="798">
-            <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+          <first_editor relative-caret-position="1938">
+            <caret line="102" column="20" lean-forward="true" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/学习总结/machine learning basics.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="974">
-            <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/学习总结/数据预处理-sklearn preprocessing理解.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
         </state>
       </provider>
     </entry>
