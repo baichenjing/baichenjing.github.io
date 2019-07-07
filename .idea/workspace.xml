@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff1b22f9-76d1-42fb-a101-628cf555b866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/学习总结/onehot编码和labelEncoder编码.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/学习总结/数据预处理-sklearn preprocessing理解.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ff1b22f9-76d1-42fb-a101-628cf555b866" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +15,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="1938">
-                <caret line="102" column="20" lean-forward="true" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
+                <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -29,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/学习总结/数据预处理-sklearn preprocessing理解.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
+            <state relative-caret-position="267">
+              <caret line="111" column="77" selection-start-line="111" selection-start-column="77" selection-end-line="111" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -160,9 +156,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="954" />
+    <option name="x" value="346" />
     <option name="y" value="1" />
-    <option name="width" value="1313" />
+    <option name="width" value="1922" />
     <option name="height" value="974" />
   </component>
   <component name="ProjectView">
@@ -177,11 +173,6 @@
               <item name="baichenjing.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="baichenjing.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="baichenjing.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="baichenjing.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="学习总结" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -194,6 +185,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bai\Documents\baichenjing.github.io" />
       <recent name="C:\Users\bai\Documents\baichenjing.github.io\xmind" />
       <recent name="C:\Users\bai\Documents\baichenjing.github.io\学习总结" />
     </key>
@@ -233,10 +225,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="569" y="9" width="875" height="649" extended-state="0" />
-    <editor active="true" />
+    <frame x="231" y="1" width="1281" height="649" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.035842296" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15768303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -427,7 +418,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1938">
-            <caret line="102" column="20" lean-forward="true" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
+            <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
@@ -435,8 +426,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/学习总结/数据预处理-sklearn preprocessing理解.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="105" column="24" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
+        <state relative-caret-position="267">
+          <caret line="111" column="77" selection-start-line="111" selection-start-column="77" selection-end-line="111" selection-end-column="77" />
         </state>
       </provider>
     </entry>

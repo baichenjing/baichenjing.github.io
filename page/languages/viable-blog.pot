@@ -1,0 +1,559 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Viable Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-05 06:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. 1: list of tags.
+#. 1: list of categories.
+#: inc/functions/template-tags.php:82 inc/functions/template-tags.php:98
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#. 1: Copyright Text, 2: Theme Name, 3:  WordPress.org URL.
+#: inc/functions/hooks.php:223
+#, php-format
+msgid "%1$s %2$s Powered By %3$s "
+msgstr ""
+
+#. 1: WordPress.org URL.
+#: inc/functions/hooks.php:226
+#, php-format
+msgid "%1$s Powered By %2$s "
+msgstr ""
+
+#: inc/widgets/author-widget.php:124
+msgid "&mdash; Select Page &mdash;"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/functions/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: 404.php:20
+msgid "404"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:389
+msgid ""
+"Author description is displayed in blog post page. Customize the author "
+"section with different options below."
+msgstr ""
+
+#: inc/customizer/customizer-options.php:388
+msgid "Author Info"
+msgstr ""
+
+#: inc/widgets/author-widget.php:117
+msgid "Author Page"
+msgstr ""
+
+#: inc/widgets/author-widget.php:139
+msgid "Author Signature"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:67
+msgid "Banner Layout One"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:68
+msgid "Banner Layout Two"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:41
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:123
+msgid "Blog Posts Section"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:315
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:108
+#: inc/customizer/customizer-options.php:133
+msgid "Button Title"
+msgstr ""
+
+#: template-parts/layout/layout-grid.php:52
+#: template-parts/layout/layout-gridfull.php:53
+msgid "By: "
+msgstr ""
+
+#. %s is the page number.
+#: inc/functions/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:22
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:168
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:790 inc/functions/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/widgets/author-widget.php:31
+msgid "Displays Brief Author Description."
+msgstr ""
+
+#: inc/widgets/post-widget.php:31
+msgid "Displays Recent, Most Commented or Editor Picked Posts."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:33
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:399
+msgid "Enable Author Info"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:51
+msgid "Enable Banner Section"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:325
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:156
+msgid "Enable Footer Social Links"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:349
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:286
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: 404.php:21
+msgid "Error page not found!"
+msgstr ""
+
+#. Author of the theme
+msgid "everestthemes"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:423
+msgid ""
+"Excerpt is the short post content. Excerpt length sets the number of words "
+"that the excerpt can contain. This is the default excerpt length used for "
+"other pages too."
+msgstr ""
+
+#: inc/customizer/customizer-options.php:422
+msgid "Excerpt Length"
+msgstr ""
+
+#: footer.php:23
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:191
+msgid "Facebook Link"
+msgstr ""
+
+#: functions.php:127
+msgid "Footer"
+msgstr ""
+
+#: functions.php:56
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:146
+msgid "Footer Section"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:298
+msgid "Global Sidebar Position"
+msgstr ""
+
+#: 404.php:28
+msgid "Go Homepage"
+msgstr ""
+
+#: footer.php:33
+msgid "Google +"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:215
+msgid "Google Plus Link"
+msgstr ""
+
+#: functions.php:138
+msgid "Header Advertisement"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:29
+msgid "Header Layout One"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:30
+msgid "Header Layout Two"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:15
+msgid "Header Section"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://everestthemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://everestthemes.com/viable-blog/"
+msgstr ""
+
+#: footer.php:43
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:239
+msgid "Instagram Link"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: inc/functions/extras.php:32
+msgctxt "Laila font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:302
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/widgets/author-widget.php:132
+msgid "Link Title"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/functions/template-tags.php:79
+msgctxt "list item separator"
+msgid " "
+msgstr ""
+
+#: functions.php:55
+msgid "Main Menu"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/functions/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:789 inc/functions/breadcrumbs.php:845
+#: inc/functions/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/widgets/post-widget.php:121
+msgid "Most Commented"
+msgstr ""
+
+#: inc/functions/hooks.php:197
+msgid "Next"
+msgstr ""
+
+#: inc/widgets/post-widget.php:139
+msgid "No of Popular Posts"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:304
+msgid "No Sidebar"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:95
+#: inc/customizer/customizer-options.php:374
+msgid "Number of Posts"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:412
+msgid "Other Options"
+msgstr ""
+
+#. %s is the page number.
+#: inc/functions/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content-single.php:33
+msgid "Pages:"
+msgstr ""
+
+#: footer.php:38
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:227
+msgid "Pinterest Link"
+msgstr ""
+
+#. %s: post author.
+#: inc/functions/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "Posted by: %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/functions/template-tags.php:31
+#, php-format
+msgctxt "post date"
+msgid "Posted on: %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/functions/template-tags.php:65
+#, php-format
+msgid "Posted in: %1$s"
+msgstr ""
+
+#: inc/functions/hooks.php:196
+msgid "Prev"
+msgstr ""
+
+#: inc/widgets/post-widget.php:120
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:338
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:339
+msgid ""
+"Related posts are displayed in blog post page. Customize the related posts "
+"section with different options below."
+msgstr ""
+
+#: inc/customizer/customizer-options.php:303
+msgid "Right Sidebar"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: inc/functions/extras.php:27
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/functions/extras.php:190
+msgid "Search"
+msgstr ""
+
+#. %s: search query.
+#: search.php:33
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: inc/functions/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:361
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:63
+msgid "Select Banner Layout"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:25
+msgid "Select Header Layout"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:81
+msgid "Select one or more than one categories"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:80
+msgid "Select Post Category/Categories"
+msgstr ""
+
+#: functions.php:117 inc/customizer/customizer-options.php:276
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:181
+msgid "Social Links"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"The page you are looking for either has moved or doesn&rsquo;t exists in "
+"this server. Go back to homepage."
+msgstr ""
+
+#: inc/widgets/author-widget.php:111 inc/widgets/post-widget.php:108
+msgid "Title"
+msgstr ""
+
+#: footer.php:28
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:203
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/widgets/post-widget.php:115
+msgid "Type of Posts:"
+msgstr ""
+
+#: inc/functions/extras.php:190
+msgid "Type Something"
+msgstr ""
+
+#: inc/widgets/author-widget.php:152
+msgid "Upload"
+msgstr ""
+
+#. Name of the theme
+msgid "Viable Blog"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Viable Blog is a modern, beautiful and clean WordPress theme designed and "
+"developed specially for personal blog. This theme supports post formats like "
+"gallery, audio, video etc... with which you can showcase your passion, ideas,"
+" creativity for the things like photography, travel, food, fashion, music, "
+"video etc. This theme is fully responsive, customizable, user friendly, "
+"cross browser compatible, and translation ready."
+msgstr ""
+
+#: footer.php:48
+msgid "Vk"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:251
+msgid "VK Link"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/functions/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/functions/breadcrumbs.php:788 inc/functions/breadcrumbs.php:817
+#: inc/functions/breadcrumbs.php:844 inc/functions/breadcrumbs.php:871
+#: inc/functions/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: footer.php:53
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer/customizer-options.php:263
+msgid "Youtube Link"
+msgstr ""
